@@ -202,3 +202,5 @@ After 99 generations, the networks have improved a little bit (the training was 
 ![Graphs of the best and average accuracies of the evolution of networks with the MNIST dataset.](mnist_accuracies.png)
 
 Here, the fitness is the accuracy of the network.
+
+The best went from 88.5 % to 93.6% accuracy, while the average went from 67.2 % to 88.6 %.
