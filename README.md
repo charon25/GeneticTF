@@ -135,7 +135,7 @@ evoman.save(filepath)
 evoman.print()
 ```
 
-#### Graping the fitnesses
+#### Graphing the fitnesses
 
 ```python
 # `show` indicated if the plot should be displayed
